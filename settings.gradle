@@ -1,0 +1,3 @@
+include ':ExoPlayerLibrary'
+include ':app'
+rootProject.name = "LibraryBridge"
